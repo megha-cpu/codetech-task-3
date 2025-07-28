@@ -119,3 +119,6 @@ README.md: Project description (this file)
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/8c455250-5054-44bc-950b-b4e57f882634)
+
+![Image](https://github.com/user-attachments/assets/e5a7ec21-146e-4ec0-b464-a30f6d248e4a)
